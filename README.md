@@ -21,8 +21,4 @@
 3. Потрібно реалізувати видалення контактів. Після видалення мають оновитися дані на сторінці. 
 4. При кліку на кнопку LogOut користувач розлогінюється, токен видаляється, а користувачу стає доступна лише головна сторінка. 
 
-
-Запит на бекенд - axios.defaults.baseURL = 'https://connections-api.goit.global/'
-axios.defaults.headers.common.Authorization = `Bearer ${token}`
-
 Посилання на документацію бекенда - https://connections-api.goit.global/docs/ 
